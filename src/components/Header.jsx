@@ -1,12 +1,12 @@
-import React from "react";
+import React from 'react';
 
 function Header()
 {
   var HeadStyle = {
 
-  }
+  };
   return(
-    <div>
+    <div style={HeadStyle}>
       <button>Home</button>
       <button>Notifactions</button>
       <button>Messages</button>
